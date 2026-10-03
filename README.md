@@ -1,3 +1,8 @@
+## 🚀 Live Demo
+
+[Open the Live SOC Tool](https://automated-soc-incident-report-generator-mjzjgpa5rna8rvs8esqc7f.streamlit.app/)
+
+
 # Automated SOC Incident Report Generator
 
 This is a cybersecurity project I built while learning about SOC operations and threat intelligence.

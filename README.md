@@ -34,13 +34,13 @@ This project also helped me practice working with APIs, Python, Streamlit, JSON 
 ## How it works
 
 Enter IP Address
-       ↓
+       ->
 VirusTotal API
-       ↓
+       ->
 Get Threat Information
-       ↓
+       ->
 Analyze the Result
-       ↓
+       ->
 Display Result
-       ↓
+       ->
 Generate PDF Report
